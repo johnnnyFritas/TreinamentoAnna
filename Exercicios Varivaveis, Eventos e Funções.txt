@@ -1,0 +1,7 @@
+1) O seu exercício é criar uma unica ancora em HTML, sem estilização, com o texto "Clique aqui ganhar um ponto". 
+
+Após a criação da ancora, quando o usuário clicar na mesma, um ponto deve ser somado e mostrado na página. 
+
+- lembre-se que você pode usar a função "InnerHTML = 'exemplo';" Para criar textos em javaScript -
+No arquivo que você fará o exercício eu adicionarei um exemplo de como criar elementos e mostrá-los na tela para que você possa se basear e prosseguir c a resolução.
+
